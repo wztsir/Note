@@ -322,9 +322,9 @@ int main()
 
 ### 清空输入缓冲区
 
-![getchar](.\image\getchar.png)
+![img](https://github.com/wztsir/Note/blob/main/Image/getchar.png?raw=true)
 
-![getchar2](.\image\getchar2.png)
+![img](https://github.com/wztsir/Note/blob/main/Image/getchar2.png?raw=true)
 
 getchar取走换行符
 
